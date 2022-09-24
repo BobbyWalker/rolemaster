@@ -37,5 +37,5 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "at",
   "manifest": "https://raw.githubusercontent.com/BobbyWalker/rolemaster/master/system.json",
-  "download": "https://github.com/BobbyWalker/rolemaster/archive/refs/tags/release-000.zip"
+  "download": "https://github.com/BobbyWalker/rolemaster/archive/refs/tags/release-001.zip"
 }

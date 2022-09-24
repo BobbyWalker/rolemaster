@@ -1,6 +1,6 @@
 {
   "id": "rolemaster",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "Rolemaster RMSS",
   "url": "https://github.com/BobbyWalker/rolemaster",
   "description": "An attempt at implementing the Rolemaster RMSS system for Foundry",

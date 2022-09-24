@@ -8,17 +8,22 @@
   "authors": [
     {
       "name": "Kevlyn",
-      "url": "https://github.com/BobbyWalker/rolemaster"
+      "url": "https://github.com/BobbyWalker/rolemaster",
+      "flags": {}
     }
   ],
-  "esmodules": ["module/simple.js"],
-  "styles": ["styles/simple.css"],
-  "packs": [],
+  "esmodules": [
+    "module/simple.js"
+  ],
+  "styles": [
+    "styles/simple.css"
+  ],
   "languages": [
     {
       "lang": "en",
       "name": "English",
-      "path": "lang/en.json"
+      "path": "lang/en.json",
+      "flags": {}
     }
   ],
   "compatibility": {
